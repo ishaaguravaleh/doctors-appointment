@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Ignore README file
+README.md
+
+
+
+
+
+
+
