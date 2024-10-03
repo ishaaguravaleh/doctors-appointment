@@ -17,23 +17,7 @@ npm run dev
 cd backend/
 npm run start-dev
 
-# MONGODB CRED.
 
-username - ishag24
-pwd - doctorbackendapp
-
-username - isha19
-pwd - isha19
-
-# DOCTOR
-
-vanshika@gmail.com
-pwd - 123456789
-
-varun@gmail.com
-pwd - 12345678
-
-# USER
 
 rahulg@gmail.com
 pwd - rahul@123
