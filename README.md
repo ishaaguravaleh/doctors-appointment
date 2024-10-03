@@ -19,5 +19,4 @@ npm run start-dev
 
 
 
-rahulg@gmail.com
-pwd - rahul@123
+
